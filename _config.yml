@@ -31,7 +31,7 @@ twitter_username: cyberbytessec
 github_username:  izm1chael
 
 # Build settings
-theme: jekyll-theme-hydejack
+remote_theme: hydecorp/hydejack@v9.1.6
 plugins:
   - jekyll-feed
   - jekyll-include-cache
