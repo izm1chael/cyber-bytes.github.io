@@ -16,6 +16,7 @@ gem "github-pages", group: :jekyll_plugins
 gem "jekyll-theme-hydejack"
 gem "jekyll-include-cache", group: :jekyll_plugins
 gem 'jekyll-news-sitemap' 
+gem 'jekyll-sitemap'
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
