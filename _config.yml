@@ -31,7 +31,7 @@ twitter_username: cyberbytessec
 github_username:  izm1chael
 
 # Build settings
-remote_theme: hydecorp/hydejack@v9.1.6
+remote_theme: daattali/beautiful-jekyll@5.0.0
 plugins:
   - jekyll-feed
   - jekyll-include-cache
